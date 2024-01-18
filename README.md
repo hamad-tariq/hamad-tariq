@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hammad Tariq
 ====================================================================================================================================
 
-Data Analyst | Python Developer
+Software Engineer | Data Analyst
 -------------------------------
 
 🏆 A certified data analyst with a knack for turning numbers into narratives that guide businesses towards success. 💰 With a strong background in Data Scraping, Market Analysis, Sales Data Analytics and Financial Analysis, I can help you with efficient and reliable solutions for data collection, cleaning and analysis using statistical tools, programming languages and dashboard software for better business decision-making.
