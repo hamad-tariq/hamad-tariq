@@ -1,5 +1,5 @@
-<h1 align="center">Hey Fellows! Welcome to my profile 👋, I'm Hammad Tariq</h1>
-<h3 align="center">A Passionate DATA Engineer from Pakistan</h3>
+<h1 align="center">Hey Fellows! Welcome to my GitHub 👋, I'm Hammad Tariq</h1>
+<h3 align="center">A Passionate Data Engineer from Pakistan</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamad-tariq" alt="hamad-tariq" /></a> </p>
 
