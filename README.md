@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/mirzahamadtariq" target="blank"><img src="https://img.shields.io/twitter/follow/mirzahamadtariq?logo=twitter&style=for-the-badge" alt="mirzahamadtariq" /></a> </p>
 
-- 🔭 I’m currently working on [Data Talks - Data Engineering Zoom Camp 2024](https://github.com/hamad-tariq/HammadTariq-ZoomCamp2024)
+- 🔭 I’m currently working at [Tech Bite Solution](https://www.linkedin.com/company/tech-bite-solution-pk/?viewAsMember=true)
 
-- 🌱 I’m currently learning **Big Data, Docker, Spark, Kafka, Hadoop, and Airflow**
+- 🌱 I’m currently learning **Docker and Kubernetes**
 
-- 👯 I’m looking to collaborate on **Data Driven Projects**
+- 👯 I’m looking to collaborate on **AI Powered Application**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hamad-tariq](https://github.com/hamad-tariq)
 
-- 💬 Ask me about **Python, Django, and SQL**
+- 💬 Ask me about **Python, Java, and SQL**
 
 - 📫 How to reach me **hammadt451@gmail.com**
 
