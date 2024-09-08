@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/hamad-tariq](https://github.com/hamad-tariq)
 
-- 💬 Ask me about **Python, SQL, Java, Docker, Excel, PowerBI, Hadoop, and Apache Airflow**
+- 💬 Ask me about **Python, SQL, Java, Docker, Hadoop, and Apache Airflow**
 
 - 📫 How to reach me **hammadt451@gmail.com**
 
