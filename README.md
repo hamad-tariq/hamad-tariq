@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **hammadt451@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/hammad-tariq-business-analytics-data-services/](https://www.linkedin.com/in/hammad-tariq-business-analytics-data-services/)
+- 📄 Know about my experiences [LinkedIn/Hammad-Tariq](https://www.linkedin.com/in/hammad-tariq-business-analytics-data-services/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
