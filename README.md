@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/mirzahamadtariq" target="blank"><img src="https://img.shields.io/twitter/follow/mirzahamadtariq?logo=twitter&style=for-the-badge" alt="mirzahamadtariq" /></a> </p>
 
-- 🔭 I’m currently working at [Tech Bite Solution](https://www.linkedin.com/company/tech-bite-solution-pk/?viewAsMember=true)
+- 🔭 I’m currently working at [Tech Bite Solution](https://www.techbitesolution.com/)
 
 - 🌱 I’m currently learning **Docker and Kubernetes**
 
