@@ -1,5 +1,5 @@
-<h1 align="center">Hey Fellows! Welcome to my GitHub 👋, I'm Hammad Tariq</h1>
-<h3 align="center">A Passionate Data Engineer from Pakistan</h3>
+<h1 align="center">Meet the Gecko! Hammad Tariq</h1>
+<h3 align="center">Aspiring Software Engineer from Pakistan</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamad-tariq" alt="hamad-tariq" /></a> </p>
 
@@ -7,15 +7,15 @@
 
 - 🔭 I’m currently working at [Tech Bite Solution](https://www.techbitesolution.com/)
 
-- 🌱 I’m currently learning **Docker and Kubernetes**
+- 🌱 I’m currently learning **Azure**
 
-- 👯 I’m looking to collaborate on **AI Powered Application**
+- 👯 I’m looking to collaborate on **ETL and Data Warehousing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hamad-tariq](https://github.com/hamad-tariq)
 
-- 💬 Ask me about **Python, SQL, Java, Docker, Hadoop, and Apache Airflow**
+- 💬 Ask me about **Python, SQL, Java, Docker, Hadoop, Dagster, PySpark and Apache Airflow**
 
-- 📫 How to reach me **hammadt451@gmail.com**
+- 📫 How to reach me? **hammadt451@gmail.com**
 
 - 📄 Know about my experiences [LinkedIn/Hammad-Tariq](https://www.linkedin.com/in/hammad-tariq-business-analytics-data-services/)
 
