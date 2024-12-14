@@ -13,7 +13,7 @@
 
 - 📫 How to reach me? **hammadt451@gmail.com**
 
-- 📄 Know about my experiences [LinkedIn/Hammad-Tariq]([https://www.linkedin.com/in/hammad-tariq-business-analytics-data-services/](https://hammadtariq.vercel.app/))
+- 📄 Know about my experiences [Hammad-Tariq-Portfolio](https://hammadtariq.vercel.app/))
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamad-tariq&show_icons=true&locale=en&layout=compact" alt="hamad-tariq" /></p>
 
